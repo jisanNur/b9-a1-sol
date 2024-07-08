@@ -157,7 +157,6 @@ body{
 
 /* third section style starts here */
 .third-container{
-    border: 2px solid green;
     width: 1320px;
     height: 482px;
     display: flex;
