@@ -154,3 +154,60 @@ body{
 }
 
 /* midnight party section ends here */
+
+/* third section style starts here */
+.third-container{
+    border: 2px solid green;
+    width: 1320px;
+    height: 482px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    margin-top: 100px;
+    border-radius: 16px;
+    background: linear-gradient(180.00deg, rgba(255, 0, 0, 0.1),rgba(255, 0, 0, 0) 100%);
+}
+.third-container p{
+    font-family: Inter;
+    font-size: 32px;
+    font-weight: 600;
+    line-height: 56px;
+    text-align: center;
+    text-transform: capitalize;
+}
+.date-time-contant .red{
+    color: red;
+}
+.third-section-btn{
+    width: 167px;
+    height: 56px;
+    
+    
+}
+.btn{
+   
+    margin-top: 50px;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 24px;
+    letter-spacing: 0%;
+    text-align: center;
+    text-transform: uppercase;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 16px 32px 16px 32px;
+    border-radius: 8px;
+    border: none;
+    background: rgb(255, 0, 0);
+    
+}
+.btn a{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+/* third section style end here */
